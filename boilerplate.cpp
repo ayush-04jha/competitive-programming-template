@@ -10,19 +10,14 @@ using namespace std;
 #define sort(a) sort(all(a))
 #define PI 3.14159265359
 
+void solve(){
+// start your code here...
+}
 
 int main(){
-    vec v;
-    v.pb(5);
-    v.pb(4);
-    v.pb(6);
-    v.pb(4);
-    v.pb(9);
-    sort(v);
-    fo(i,5){
-         cout<<v[i]<<" ";
-    }
-    cout<<yes<<endl;
+   int t;
+   cin>>t;
+   while(t--) solve();
 
     return 0;
 }
