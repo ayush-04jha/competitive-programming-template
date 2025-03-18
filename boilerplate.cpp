@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-#define fo(i,n) for(ll i=0;i<n;i++)
+#define fo(i,a,b) for(ll i=a;i<b;i++)
 #define vec  vector<ll>
 #define yes "YES"
 #define no "NO"
